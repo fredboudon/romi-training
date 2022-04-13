@@ -1,0 +1,17 @@
+name: lpynb
+channels:
+  - fredboudon
+  - conda-forge
+dependencies:
+  - openalea.lpy=3.*
+  - openalea.plantgl=3.*
+  - xarray-simlab=0.5.*
+  - jupyterlab=3.*
+  - jupyterlab_widgets
+  - ipython=7
+  - matplotlib
+  - numpy=1.20.*
+  - pandas
+  - pip
+  - pip:
+    - pgljupyter==1.*
