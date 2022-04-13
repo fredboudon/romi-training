@@ -12,9 +12,9 @@
 
   - Graphical parameters : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredboudon/romi-training/HEAD?labpath=tutorials%2Fgraphicalparameters.ipynb)
   
-  - Workflow 1 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredboudon/romi-training/HEAD?labpath=tutorial%2Flpy-simlab.ipynb)
+  - Workflow 1 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredboudon/romi-training/HEAD?labpath=tutorials%2Flpy-simlab.ipynb)
 
-  - Workflow 2 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredboudon/romi-training/HEAD?labpath=tutorial%2Flpy_carbon_light.ipynb)
+  - Workflow 2 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredboudon/romi-training/HEAD?labpath=tutorials%2Flpy_carbon_light.ipynb)
 
   - VMango : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredboudon/vmango.git/fspm2020?urlpath=lab/tree/notebooks) 
 
